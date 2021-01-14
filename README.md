@@ -15,10 +15,13 @@ O sistema lista todos os usuários.
 3. [Postman](https://www.postman.com/)
 
 #### Execução
-1. POST /api/message<p>payload: {message, .....}
+1. Rodar serve
+   >php artisan serve
+   
+2. POST /api/message<p>payload: {message, .....}
    >Mêtodo para o envio das mensagens e recebimentos
    
-2. GET /users
+3. GET /users
    >Retorna todos os usuarios
 
 
