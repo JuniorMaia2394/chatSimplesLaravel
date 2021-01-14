@@ -7,7 +7,7 @@ O chat foi desenvolvido utilizando Laravel, Postgres e Postman.
 
 ### Sistema
 O sistema lista todos os usuários.
-<p>O usuário pode enviar mensagem para qualquer outro usuário.
+<p>O usuário pode enviar mensagens para qualquer outro usuário.
 
 ### Tecnologias
 1. [Laravel](https://laravel.com/) 
