@@ -2,12 +2,12 @@
 
 
 ## Sobre
-O chat foi desenvolvido utilizando Laravel e Postgres.
-A aplicação provem de um sistema chat simples em que um usuário pode enviar mensagens para outros usuários.
+O chat foi desenvolvido utilizando Laravel, Postgres e Postman.
+<p>A aplicação provem de um sistema chat simples em que um usuário pode enviar mensagens para outros usuários.
 
 ### Sistema
-O sistema listar todos os usuários.
-E um usuário pode enviar mensagem para qualquer outro usuário.
+O sistema lista todos os usuários.
+<p>O usuário pode enviar mensagem para qualquer outro usuário.
 
 ### Tecnologias
 1. [Laravel](https://laravel.com/) 
