@@ -15,8 +15,7 @@ O sistema lista todos os usuários.
 3. [Postman](https://www.postman.com/)
 
 #### Execução
-1. POST /api/message
-   <p>payload: {message, .....}
+1. POST /api/message<p>payload: {message, .....}
    >Mêtodo para o envio das mensagens e recebimentos
    
 2. GET /users
