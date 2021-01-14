@@ -1,9 +1,9 @@
-# ChatSimplesLaravel
+# ChatSimplesLaravel(Back-end)
 
 
 ## Sobre
 O chat foi desenvolvido utilizando Laravel, Postgres e Postman.
-<p>A aplicação provem de um sistema chat simples em que um usuário pode enviar mensagens para outros usuários.
+<p>A aplicação provem de um sistema de chat simples em que um usuário pode enviar mensagens para outros usuários.
 
 ### Sistema
 O sistema lista todos os usuários.
