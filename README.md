@@ -21,7 +21,7 @@ O sistema lista todos os usuários.
 2. POST /api/message<p>payload: {message, .....}
    >Mêtodo para o envio das mensagens e recebimentos
    
-3. GET /users
+3. GET /api/users
    >Retorna todos os usuarios
 
 
