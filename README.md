@@ -18,7 +18,7 @@ O sistema lista todos os usuários.
 1. Rodar serve
    >php artisan serve
    
-2. POST /api/message<p>payload: {message, .....}
+2. POST /api/messages<p>payload: {message, .....}
    >Mêtodo para o envio das mensagens e recebimentos
    
 3. GET /api/users
